@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://yakovski.boost.space/desktop/$1"
+ }
+  ]
+}
